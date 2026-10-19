@@ -1,6 +1,7 @@
 # Open-Source Excel & CSV Data Cleaner
 
 An automated, lightweight web application built with Streamlit and Pandas to clean messy datasets, remove duplicate rows, fill missing values, and export clean sheets.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://excel-data-cleaner-for-you.streamlit.app/)
 
 [![Deploy to Hostinger](https://hostinger.com/deploy-button.svg)](https://hostinger.com?REFERRAL_CODE_HERE)
 
