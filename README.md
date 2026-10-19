@@ -13,7 +13,7 @@ An automated, lightweight web application built with Streamlit and Pandas to cle
 - Custom duplicate & NaN removal
 - Instant export to Excel or CSV
 
-- 
+ ![App Preview](preview.png)
 
 ## Run Locally
 ```bash
@@ -22,4 +22,4 @@ cd excel-cleaner-app
 pip install -r requirements.txt
 streamlit run app.py
 
-![App Preview](preview.png)
+
